@@ -1,2 +1,2 @@
 quota=1.5GB
-vless://75bcb03e-2b6a-4be7-9738-ea34a8b37933@45.154.24.196:8443?encryption=none&fp=chrome&pbk=QAbUZF7eGcjrLiHPHIYF56x3uiNhwdtmWY8jgv3vYCU&security=reality&sid=31c518&sni=google.com&spx=%2Fd9e03910575ab05&support-x25519mlkem768=true&type=tcp#User2
+vless://06cd2587-2f49-4d6b-8105-7268e05b7f3f@45.154.24.196:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QAbUZF7eGcjrLiHPHIYF56x3uiNhwdtmWY8jgv3vYCU&security=reality&sid=31c518&sni=google.com&spx=%2F276320efc358df8&support-x25519mlkem768=true&type=tcp#test1
