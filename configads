@@ -1,6 +1,6 @@
 {
-  "connect":    { "enabled": true,  "seconds": [30, 59], "urls": ["smartlink"] },
-  "disconnect": { "enabled": true,  "seconds": [5, 15],  "urls": ["smartlink"] },
+  "connect":    { "enabled": true,  "seconds": [30, 59], "urls": ["https://auctionr.org/4/8bde19e5df7cbde448421f1ad1e402a0"] },
+  "disconnect": { "enabled": true,  "seconds": [5, 15],  "urls": ["https://asiafilm.org/4/3e32def0e9c10a91b5baf11ce66c17c2"] },
   "banner":     { "key": "f717f8ed01ae2fd7a949f511e216d4bf",
                   "script": "https://bauval.org/22/f717f8ed..." },
   "units": [
