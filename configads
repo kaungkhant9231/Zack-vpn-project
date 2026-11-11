@@ -1,0 +1,10 @@
+{
+  "connect":    { "enabled": true,  "seconds": [30, 59], "urls": ["smartlink"] },
+  "disconnect": { "enabled": true,  "seconds": [5, 15],  "urls": ["smartlink"] },
+  "banner":     { "key": "f717f8ed01ae2fd7a949f511e216d4bf",
+                  "script": "https://bauval.org/22/f717f8ed..." },
+  "units": [
+    { "type": "socialbar", "enabled": true, "script": "https://afders.org/1/c02a99..." },
+    { "type": "popunder",  "enabled": false, "script": "https://bicea.org/14/bc3674..." }
+  ]
+}
